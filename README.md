@@ -11,3 +11,7 @@ Este programa es para poder ejecutar el juego del ahorcado.
 En este programa, se debe ingresar una letra para que el codigo la analice y verifique se ingreso un valor correcto ( una letra, no un número), si la misma está en la palabra a adivinar, y si no se ha repetido previamente la letra, y la une a los letras previamente adivinadas para poder completar la palabra.
 
 El objetivo del programa es dar un pequeño entretenimiento al usuario con un juego interesante y práctico; y que ellos pueden elegir las palabras que se van a adivinar de acuerdo a su rama de interes. 
+
+
+LINK DEL VIDEO
+https://drive.google.com/file/d/13hcqyFzmNKToGQmQrEYxBmux1ONgXSeA/view?usp=sharing
